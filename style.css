@@ -1,0 +1,21 @@
+body {
+    background: #829D93;
+    background: linear-gradient(-45deg,#829D93,#ADC2B5);
+    background: -webkit-linear-gradient(-45deg,#829D93,#ADC2B5);
+}
+
+* {
+    font-family: 'Garamond';
+    color: white
+    e;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+#header {
+    background-color: #c3e9cc;
+}
+
