@@ -6,8 +6,25 @@ body {
 
 * {
     font-family: 'Garamond';
-    color: white
-    e;
+    color: white;
+}
+
+#navbar {
+    background-color: #F0F8F2;
+    overflow: hidden;
+    padding: 9px;
+}
+#navbar a {
+    color: #829D93;
+    float: left;
+    padding: 14px 18px;
+    margin: 10px;
+    border: thin solid black;
+    border-radius: 15px;
+}
+#navbar a:hover {
+    background-color: #829D93;
+    color: #F0F8F2;
 }
 
 h1{
@@ -15,7 +32,27 @@ h1{
     text-align: center;
 }
 
-#header {
-    background-color: #c3e9cc;
+
+.center {
+    text-align: center;
+}
+
+
+#footer {
+    background-color: #F0F8F2;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    padding: 40px 0px;
+}
+#footer a {
+    color: #829D93;
+    float: left;
+    padding: 14px 18px;
+    text-align: center;
+}
+#footer a:hover {
+    background-color: #829D93;
+    color: #F0F8F2;
 }
 
